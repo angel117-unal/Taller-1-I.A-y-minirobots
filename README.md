@@ -4,7 +4,7 @@
 
 Es la capacidad de aplicar el modelo DIKW (Datos, Información, Conocimiento, Sabiduría) al procesar, analizar e interpretar datos de manera autónoma, transformándolos en conocimiento aplicable a diversos aspectos de la vida cotidiana en un tiempo determinado.
 
-## 2. **Análisis del Video: "JsmKUCiPHUY"**
+## 2. **Análisis del Video: Xenorobots capaces de autoreplicarse**
 
 El análisis del video se organiza en dos partes. En la primera, se discuten los temores de algunas personas frente a experimentos recientes, como el de robots que pueden autoreplicarse sin intervención humana, denominados xenobots. Estos xenobots no están compuestos de metal o plástico como los robots tradicionales, sino de tejido biológico, por lo que se les conoce como "robots vivientes". Están hechos a partir de células madre y embriones de vida sintética, lo que plantea interrogantes éticos y científicos sobre el futuro de la tecnología robótica.
 En la segunda parte, se menciona el desarrollo de una tecnología que permite crear robots con rostros humanos, copiando los rostros y las voces de personas reales. Este proyecto, que se utiliza principalmente para fines comerciales, implica que las empresas puedan pagar a personas para obtener legalmente copias de sus rostros y voces, las cuales se implementan en robots en los Estados Unidos.
@@ -19,14 +19,6 @@ De acuerdo con el informe del Departamento Nacional de Planeación (DNP) de la p
 Esta iniciativa busca que la IA se convierta en una herramienta fundamental para desarrollar condiciones esenciales en infraestructura, innovación y formación de talento, además de permitir la identificación y mitigación de riesgos en diversos sectores. A su vez, el plan se enfoca en asegurar el acceso equitativo a la IA en todas las regiones del país, promoviendo la inclusión y el aprovechamiento de estas tecnologías en todo el territorio nacional.
 Asimismo, este enfoque de acceso a condiciones básicas no solo pretende fortalecer la economía basada en el conocimiento, sino también impulsar el desarrollo de las regiones históricamente marginadas en Colombia. Con ello, el gobierno busca crear una sociedad inclusiva y diversa, en la que el acceso a la tecnología y el conocimiento fomente el crecimiento económico y la justicia social en todas las áreas del país.
 Por otro lado, el gobierno ha manifestado su compromiso de que esta política para la IA no sea solo una oportunidad tecnológica, sino también una herramienta clave para enfrentar los desafíos económicos, sociales y ambientales que el país debe afrontar en el corto y mediano plazo. Para ello, se planea impulsar una transformación energética, especialmente considerando que Colombia tiene una de las tasas de conectividad más bajas de América. Además, se espera contar con la cooperación del sector empresarial para que los beneficios de esta tecnología se compartan ampliamente, promoviendo una implementación democrática que esté al alcance de todos los ciudadanos.
-
-## **Licencia**
-
-Este proyecto está bajo la Licencia MIT.
-
-
-
----
 
 ## **Licencia**
 
